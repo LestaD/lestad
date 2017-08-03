@@ -1,0 +1,20 @@
+{
+  "name": "lestad",
+  "version": "2.0.0",
+  "description": "Hello! i am Sergey Sova",
+  "main": "lestad.js",
+  "bin": {
+    "lestad": "lestad.js",
+    "🦉": "lestad.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LestaD/lestad.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "license": "MIT",
+  "homepage": "https://github.com/lestad/lestad#lestad"
+}
